@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\Gomerich\source\repos\LABA 4 FORMA 2\MyForm.h(32,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Gomerich\source\repos\LABA 4 FORMA 2\MyForm.h(61,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LABA 4 FORMA 2.vcxproj -> C:\Users\Gomerich\source\repos\LABA 4 FORMA 2\x64\Debug\LABA 4 FORMA 2.exe
